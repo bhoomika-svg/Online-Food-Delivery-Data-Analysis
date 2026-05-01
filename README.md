@@ -76,7 +76,7 @@ The dataset contains:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./dashboard.png)
+![Online-Food-Delivery-Data-Analysis](Image/Food_Hub.png)
 
 ---
 
@@ -97,14 +97,3 @@ This analysis helps:
 * Perform customer segmentation
 * Integrate real-time data pipelines
 
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are welcome!
-
----
-
-## ⭐ Support
-
-If you found this project useful, please give it a ⭐ and share your feedback!
